@@ -25,9 +25,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCpm0lKkxhEKWutbPt1hOgRg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="ChainSafe YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="ChainSafe YouTube Badge"/>
   </a>
  <a href="https://www.youtube.com/@buildwithsygma">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=orange" alt="Sygma YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Sygma YouTube Badge"/>
   </a>
 </div>
