@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/timothy-hao-chi-ho/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+        <a href="https://tim-hch.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCpm0lKkxhEKWutbPt1hOgRg">
     <img src="https://img.shields.io/badge/YouTube-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="ChainSafe YouTube Badge"/>
   </a>
  <a href="https://www.youtube.com/@buildwithsygma">
     <img src="https://img.shields.io/badge/YouTube-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Sygma YouTube Badge"/>
-  </a>
-     <a href="https://tim-hch.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
