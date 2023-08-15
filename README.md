@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 [![haochizzle's GitHub stats](https://github-readme-stats.vercel.app/api?username=haochizzle)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/timothy-hao-chi-ho/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCpm0lKkxhEKWutbPt1hOgRg)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/haochizzle">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
