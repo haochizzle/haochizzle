@@ -30,4 +30,7 @@ Here are some ideas to get you started:
  <a href="https://www.youtube.com/@buildwithsygma">
     <img src="https://img.shields.io/badge/YouTube-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Sygma YouTube Badge"/>
   </a>
+     <a href="https://tim-hch.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
